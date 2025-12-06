@@ -1,0 +1,7 @@
+version: 2
+
+sources:
+- name: amazon_reviews
+  schema: raw
+  tables:
+    - name: raw_amazon_reviews
